@@ -1,2 +1,6 @@
 Exercicios Cubos academy
-Todos os Exercícios feitos durante o curso, vão ser depositados aqui neste repositório com sua descrição variando o nome pelo tema da aula.
+Exercícios
+Exercicios Compra Parcelada.
+Exercicios Arrays e Loops.
+Exercicios Objetos.
+Exercicios Resolução de Problemas.
