@@ -1,6 +1,7 @@
 Exercicios Cubos academy
-Exercícios
-Exercicios Compra Parcelada.
-Exercicios Arrays e Loops.
-Exercicios Objetos.
-Exercicios Resolução de Problemas.
+	Exercícios
+ 1. Exercicio Compra Parcelada.
+ 2. Exercicio Arrays.
+ 3. Exercicio Objetos.
+ 4. Exercicio Resoluçao de problemas.
+ 
